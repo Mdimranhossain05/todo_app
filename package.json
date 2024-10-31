@@ -1,0 +1,15 @@
+{
+  "name": "expressmongo",
+  "version": "1.0.0",
+  "description": "To Do Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  }
+}
